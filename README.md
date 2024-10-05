@@ -8,7 +8,7 @@
 - 🔭 I’m a fresher currently seeking job opportunities or internships.
 - 🔭 I’m looking to collaborate on exciting projects or initiatives in the tech space. If you’re interested in teaming up, let’s connected 
 - 🔭 I’m looking for help with finding job opportunities or internships in the tech field. Any guidance or recommendations would be greatly appreciated!
-- 🌱 I’m currently learning **ReactJs,NodeJS,NextJS**
+- 🌱 I’m currently learning **ReactJs, NodeJS, NextJS**
 - 🔭 My Project are
  [Threads-Of-Artisans](https://threads-of-artisans-frontend.vercel.app/)
  [Tasty-trails](Tasty-trails-eight.vercel.app)
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://golden-bienenstitch-3b99a4.netlify.app/](https://golden-bienenstitch-3b99a4.netlify.app/)
 
-- 💬 Ask me about **React.js,Html,Css,JavaScript,MongoDB,MySQL,Java**
+- 💬 Ask me about **ReactJS Html, CSS, JavaScript, MongoDB, MySQL, Java**
 
 - 📫 How to reach me **rishabhtiwari73096@gmail.com**
 
