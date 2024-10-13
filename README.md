@@ -15,9 +15,9 @@
  [User-Management-System](https://user-managment-system-smoky.vercel.app/)
  
 
-- 👨‍💻 All of my projects are available at [https://golden-bienenstitch-3b99a4.netlify.app/](https://golden-bienenstitch-3b99a4.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rishabh-portfolio-fawn.vercel.app/](https://rishabh-portfolio-fawn.vercel.app/)
 
-- 💬 Ask me about **ReactJS Html, CSS, JavaScript, MongoDB, MySQL, Java**
+- 💬 Ask me about **ReactJS HTML, CSS, JavaScript, MongoDB, MySQL, Java**
 
 - 📫 How to reach me **rishabhtiwari73096@gmail.com**
 
