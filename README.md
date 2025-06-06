@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh73096" alt="rishabh73096" /></a> </p>
 
-- 🔭 I’m a fresher currently seeking job opportunities or internships.
+- 🔭 I’m a  currently Working and Seeing better job opportunities or internships.
 - 🔭 I’m looking to collaborate on exciting projects or initiatives in the tech space. If you’re interested in teaming up, let’s connected 
 - 🔭 I’m looking for help with finding job opportunities or internships in the tech field. Any guidance or recommendations would be greatly appreciated!
 - 🌱 I’m currently learning **ReactJs, NodeJS, NextJS**
