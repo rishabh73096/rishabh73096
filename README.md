@@ -16,17 +16,16 @@
 
 ---
 
-### 🚀 Featured Projects  
-- 🧵 [Threads-Of-Artisans](https://threads-of-artisans-frontend.vercel.app/) – A platform for local artisans  
-- 🍴 [Tasty Trails](https://tasty-trails-eight.vercel.app/) – Food delivery website clone  
-- 👨‍💼 [User Management System](https://user-managment-system-smoky.vercel.app/) – Role-based user management  
-
 **Recent Professional Projects:**
-- 🌐 [Amplify App Deployment](https://main.d29ub4hxfp2gu3.amplifyapp.com/)  
+- 🌐 [E-Commerce Store](https://main.d29ub4hxfp2gu3.amplifyapp.com/)  
 - 🛒 [Bachhoa Houston](https://www.bachhoahouston.com/) – E-commerce website  
 - 🕌 [Caneda Halal Landing Page](https://caneda-halal-landing.vercel.app/) – Landing page design  
 
----
+### 🚀 Featured Projects  
+- 🧵 [Social Media ](https://hariir-web.vercel.app/) – A platform for Professional and Company 
+- 🍴 [Tasty Trails](https://tasty-trails-eight.vercel.app/) – Food delivery website clone  
+- 👨‍💼 [User Management System](https://user-managment-system-smoky.vercel.app/) – Role-based user management  
+
 
 ### 📫 Connect With Me
 <p align="left">
