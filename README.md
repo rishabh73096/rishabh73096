@@ -19,7 +19,7 @@
 - 🏗️ Specialized in **MERN Stack** — MongoDB, Express.js, React, Node.js
 - ⚡ Currently building production SaaS platforms with **Next.js, Redux Toolkit, Stripe & AWS**
 - 🌱 Exploring **Docker, Microservices & System Design**
-- 📍 Based in India · Open to **Noida / Bengaluru / Remote** opportunities
+- 📍 Based in India · Open to **Noida / Gurugram / Bengaluru / Remote** opportunities
 - 💬 Ask me about **React, Next.js, Node.js, REST APIs, State Management, Payment Integrations**
 
 ---
