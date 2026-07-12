@@ -38,39 +38,65 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" title="Redux Toolkit"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" title="Bootstrap"/>
+## 🚀 Frontend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" title="React.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" title="Redux Toolkit"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" title="Bootstrap"/>
+  <img src="https://vitejs.dev/logo.svg" width="45" height="45" title="Vite"/>
 </p>
 
-**Backend & Database**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
+## ⚙️ Backend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" title="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" title="PHP"/>
 </p>
 
-**DevOps & Tools**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>
+## ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" title="AWS EC2"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" title="Nginx"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45" height="45" title="GitHub Actions"/>
 </p>
 
-**Integrations**
+## 🔌 APIs & Integrations
 
+![REST API](https://img.shields.io/badge/REST-API-green?style=flat)
+![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=flat)
 ![Stripe](https://img.shields.io/badge/Stripe-Payment-blueviolet?style=flat&logo=stripe)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--Time-black?style=flat&logo=socketdotio)
+![Google Maps](https://img.shields.io/badge/Google-Maps-red?style=flat&logo=googlemaps)
+![AWS S3](https://img.shields.io/badge/AWS-S3-orange?style=flat&logo=amazonaws)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?style=flat&logo=amazonaws)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-Media-blue?style=flat&logo=cloudinary)
 ![Postmark](https://img.shields.io/badge/Postmark-Email-yellow?style=flat)
-![JWT](https://img.shields.io/badge/JWT-Auth-orange?style=flat)
-![AWS S3](https://img.shields.io/badge/AWS-S3%20%7C%20EC2-orange?style=flat&logo=amazonaws)
+![Razorpay](https://img.shields.io/badge/Razorpay-Payment-blue?style=flat&logo=razorpay)
 
+## 🧪 Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-Testing-red?style=flat&logo=jest)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?style=flat&logo=postman)
+![ESLint](https://img.shields.io/badge/ESLint-Code%20Quality-purple?style=flat&logo=eslint)
+
+## 🏗️ Architecture & Practices
+- MERN Stack Development
+- REST API Design
+- Role Based Authentication & Authorization
+- Responsive UI Development
+- Payment Gateway Integration
+- Cloud Deployment & CI/CD
+- Microservice Ready Architecture
+- SEO Friendly Next.js Applications
+- Real-Time Applications using Socket.IO
 ---
 
 ### 📊 GitHub Stats
