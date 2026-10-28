@@ -22,19 +22,6 @@
 - 📍 Based in India · Open to **Noida / Gurugram / Bengaluru / Remote** opportunities
 - 💬 Ask me about **React, Next.js, Node.js, REST APIs, State Management, Payment Integrations**
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live |
-|---|---|---|---|
-| **Clee** | Full-Stack SaaS for Beauty & Wellness — booking engine, Stripe payments, loyalty rewards, 15+ business modules | Next.js, Node.js, Express, MongoDB, Redux, Stripe, Postmark | [Live](https://clee-web.vercel.app/) |
-| **Forma** | Construction Management SaaS — 200+ users, 100+ payment transactions, multi-role dashboard | Next.js, Node.js, MongoDB, AWS S3, Stripe | [Live](https://forma-web-seven.vercel.app/) |
-| **My Lodge** | PG/Hostel management platform with tenant onboarding, rent tracking & admin panel | Next.js, Node.js, MongoDB, JWT | [mylodge.cloud](https://mylodge.cloud) |
-| **E-commerce Store** | Full-featured e-commerce app with cart, auth, product management | React, Node.js, Express, MongoDB | [Live](https://main.d29ub4hxfp2gu3.amplifyapp.com/) |
-| **Bachhoa Houston** | Production Grocery website for US-based client | Next.js, Tailwind CSS | [Live](https://www.bachhoahouston.com/) |
-
----
 
 ### 🛠️ Tech Stack
 
